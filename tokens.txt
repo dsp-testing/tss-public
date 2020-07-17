@@ -24,3 +24,6 @@ aio_FMBo07xPM4e0Aj3eYjO23blItBvS
 
 stripe
 sk_test_BQokikJOvBiI2HlWgH4olfQ2
+
+microsoft
+4ekvoj6ggsvgeac2nj7xbmnkmudqat3eta42aomb266b7clwmnta
