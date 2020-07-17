@@ -12,3 +12,6 @@ live_sXkDNABRzRcSmrHrmMLQ-GdZVCbjmTj2ZssAjPSJW
 
 nuget
 oy2cixhwbdh7jy25wunam6t47xalfojeta5bs537enss5u
+
+mailgun
+fda577e4fea861b6b030e6c6e18ce153-1b65790d-042e842d
