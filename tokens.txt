@@ -1,1 +1,4 @@
 Samsara API Access Token: samsara_api_01nasldfknasldfnlsakdnflksadnf
+
+
+token=PSKfb3517151a2143f2bdc544ab00ff7663
