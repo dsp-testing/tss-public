@@ -1,4 +1,5 @@
-Samsara API Access Token: samsara_api_01nasldfknasldfnlsakdnflksadnf
-
+samsara_api_01nasldfknasldfnlsakdnflksadnf
 
 token=PSKfb3517151a2143f2bdc544ab00ff7663
+
+xoxb-369235392313-402135264013-A74d96kXs9Tuep59PZSWNkdE
