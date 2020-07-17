@@ -15,3 +15,12 @@ oy2cixhwbdh7jy25wunam6t47xalfojeta5bs537enss5u
 
 mailgun
 fda577e4fea861b6b030e6c6e18ce153-1b65790d-042e842d
+
+pulumi
+pul-2b570c803e6199f3be71e94aaff821552d53f05e
+
+adafruit
+aio_FMBo07xPM4e0Aj3eYjO23blItBvS
+
+stripe
+sk_test_BQokikJOvBiI2HlWgH4olfQ2
